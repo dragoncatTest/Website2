@@ -34,7 +34,8 @@
 		<p><a href="jsp/UserList.jsp">用户在线列表</a></p>	
 		<p><a href="UserLogout">点击注销</a></p>	
 		<p></p>
-		<p></p>
+		<p></p><p></p>
+		<p></p><p></p>
 	</div>
 	<div id="todayDiscount" align="center">
 	</div>
